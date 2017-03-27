@@ -1,7 +1,7 @@
 today work
 
 
-wronh
+wrong work
 
 
 console.log()
